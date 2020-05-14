@@ -1,0 +1,28 @@
+*{
+	overflow:auto;
+}
+
+html, body{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	
+}
+.aced{
+	text-align:center;
+}
+
+.masternodeList, .output{
+	position:fixed;
+	width: 100vw;
+	border-top: .25vh solid black;
+	border-bottom: .25vh solid black;
+	border-left: .25vw solid black;
+	border-right: .25vw solid black;
+}
+.masternodeList{
+	height: 45.5vh;
+}
+.output{
+	margin-top:45.5vh;
+	height: 54.5vh;
+}
