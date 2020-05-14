@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ v
+comment0.target=Coin(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=a
+comment3.target=Coin[]\ sort(Coin[])
+numComments=4

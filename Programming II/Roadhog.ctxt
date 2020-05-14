@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Roadhog()
+comment1.params=
+comment1.target=int\ scrapGunBlast()
+comment2.params=
+comment2.target=int\ scrapGunBall()
+comment3.params=target
+comment3.target=int\ chainHook(java.lang.Object)
+comment4.params=
+comment4.target=void\ takeABreather()
+comment5.params=
+comment5.target=int\ wholeHog()
+numComments=6

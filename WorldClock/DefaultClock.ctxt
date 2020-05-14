@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DefaultClock()
+comment1.params=
+comment1.target=void\ getTime()
+comment2.params=timeZone
+comment2.target=void\ getTime(int)
+comment3.params=
+comment3.target=java.lang.String\ getMinutes()
+comment4.params=
+comment4.target=java.lang.String\ getHours()
+comment5.params=timeZone
+comment5.target=java.lang.String\ getHours(int)
+numComments=6

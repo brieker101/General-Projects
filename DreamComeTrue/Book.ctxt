@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Book()
+comment1.params=
+comment1.target=boolean\ hasTitle()
+comment2.params=u
+comment2.target=void\ setTitle(boolean)
+comment3.params=
+comment3.target=boolean\ hasCover()
+comment4.params=u
+comment4.target=void\ setCover(boolean)
+comment5.params=
+comment5.target=boolean\ hasWords()
+comment6.params=u
+comment6.target=void\ setWords(boolean)
+numComments=7

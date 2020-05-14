@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VideoGameEngine()
+comment1.params=
+comment1.target=boolean\ checkEngine()
+comment2.params=
+comment2.target=void\ stopEngine()
+comment3.params=
+comment3.target=VideoGameEngine\ getInstanceOfEngine()
+numComments=4

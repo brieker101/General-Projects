@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Passenger
+comment1.params=arrivalTime
+comment1.target=Passenger(int)
+comment2.params=
+comment2.target=int\ getArrivalTime()
+comment3.params=
+comment3.target=int\ getProcessingTime()
+comment4.params=
+comment4.target=int\ getId()
+comment5.params=maxProcessTime
+comment5.target=void\ setMaxProcessingtime(int)
+numComments=6

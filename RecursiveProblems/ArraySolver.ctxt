@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArraySolver()
+comment1.params=nums
+comment1.target=int\ findLargest(int[])
+comment2.params=nums
+comment2.target=int\ findSum(int[])
+numComments=3

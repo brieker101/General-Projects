@@ -1,0 +1,38 @@
+Using a tester class, let's explore stacks, queues, and deques.  
+
+Use a stack - Last in First Out. (Deck of Cards)
+	- Construct stack to hold some values.  Use empty(), peek(), pop(), and push().  
+		- Store the return values and use them in print lines.  
+		- Comment what these methods do.
+	- A stack is a vector.  (ArrayList)  (Spoiler: Can be implemented as a LinkedList too)
+
+Use a queue - First in First out Linked List (Waiting in Line)
+	- Queue is an interface - it uses offer(E), remove(), poll(), peek(), element().  
+	- Same as with stacks, note the return values.
+	- Why can't you construct a queue?  Try Linked List instead.
+
+Use a deque - Interface  - Allows insertion and removal at both ends.
+	- Same as with queue
+	- Try ArrayDeque and Linked List.  Check the api, what's the difference.
+
+Create an iterator for each of them and process the collection.  
+Comment everything! (These are your notes for implementing chapter 4.)
+
+Stack
+	- Use stack to write a program that reads a string and determines whether it is a palindrome.
+	- global variables: String input, Stack<Character> charStack
+	- Methods: 
+		fillStack() - Create a stack of characters from string.  (Hint: loop)
+		buildReverse() - Create a string by popping off Stack
+		isPalindrome() - Is input equal to result of build reverse?
+	-Test:
+		kayak  // "I saw I was I" // “Able was I ere I saw Elba”		
+		"Level madam level" // Your name or what ever else you want to.
+
+	- Use stack to balance parentheses 
+		- Create a stack to hold open parentheses and brackets.
+		- Create a method isBalanced(String)
+		- Loop through input one character at a time, adding open elements.
+		- If it's a closed element, check top of stack, if there isn't an open matching return false (Not balanced)
+		- If matches, pop off the top and continue loop.
+		- When entire string is parsed, check if stack is empty.

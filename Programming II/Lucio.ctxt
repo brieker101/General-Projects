@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lucio()
+comment1.params=
+comment1.target=int\ sonicProjectiles()
+comment2.params=
+comment2.target=int\ soundWave()
+comment3.params=
+comment3.target=void\ crossfade()
+comment4.params=
+comment4.target=void\ ampItUp()
+comment5.params=
+comment5.target=void\ soundBarrier()
+numComments=6

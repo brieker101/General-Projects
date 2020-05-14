@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=length
+comment1.target=Deck(int)
+comment2.params=
+comment2.target=void\ fillDeck()
+comment3.params=
+comment3.target=int\ draw()
+comment4.params=
+comment4.target=void\ emptyDeck()
+comment5.params=
+comment5.target=void\ printDeck()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=inputId\ inputRating\ inputMovies
+comment0.target=Movie(int,\ double,\ java.util.ArrayList)
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=double\ getRating()
+comment3.params=
+comment3.target=java.util.ArrayList\ getSimiliarMovies()
+numComments=4

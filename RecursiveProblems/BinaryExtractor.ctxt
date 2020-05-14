@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinaryExtractor()
+comment1.params=n
+comment1.target=java.lang.String\ binaryExtractor(int)
+numComments=2

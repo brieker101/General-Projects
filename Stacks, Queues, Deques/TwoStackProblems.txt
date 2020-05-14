@@ -1,0 +1,19 @@
+
+Stack
+	- Use stack to write a program that reads a string and determines whether it is a palindrome.
+	- global variables: String input, Stack<Character> charStack
+	- Methods: 
+		fillStack() - Create a stack of characters from string.  (Hint: loop)
+		buildReverse() - Create a string by popping off Stack
+		isPalindrome() - Is input equal to result of build reverse?
+	-Test:
+		kayak  // "I saw I was I" // “Able was I ere I saw Elba”		
+		"Level madam level" // Your name or what ever else you want to.
+
+	- Use stack to balance parentheses 
+		- Create a stack to hold open parentheses and brackets.
+		- Create a method isBalanced(String)
+		- Loop through input one character at a time, adding open elements.
+		- If it's a closed element, check top of stack, if there isn't an open matching return false (Not balanced)
+		- If matches, pop off the top and continue loop.
+		- When entire string is parsed, check if stack is empty.

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HighRatedMovies()
+comment1.params=movie\ relatedMovies
+comment1.target=java.util.ArrayList\ score(Movie,\ int)
+numComments=2

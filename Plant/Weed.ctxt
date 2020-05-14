@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=plant\ base
+comment0.target=Weed(java.lang.String,\ double)
+comment1.params=
+comment1.target=void\ grow()
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Palindrome
+comment1.params=
+comment1.target=Palindrome()
+comment1.text=\r\n\ Input\ creation\ and\ all\ of\ the\ Stacks\ necessary\ for\ checking\r\n
+comment2.params=
+comment2.target=void\ fillStack()
+comment2.text=\r\n\ Whenever\ I\ set\ inputStringHolder\ \=\ InputString\ it\ would\ give\ me\ emptyStack\r\n\ Push\ character\ to\ both\ inputString\ and\ inputStringHolder\r\n
+comment3.params=
+comment3.target=void\ buildReverse()
+comment3.text=\r\n\ Pop\ until\ empty\ and\ place\ in\ another\ stack\r\n
+comment4.params=
+comment4.target=boolean\ isPalindrome()
+comment4.text=\r\n\ Since\ the\ reverse\ should\ be\ the\ same\ if\ they\ are\ palindrome,\ it\ is\ fine\ to\ just\ wildy\ compare\ them.\r\n\ THIS\ IS\ CASE\ SENSITIVE\r\n
+numComments=5

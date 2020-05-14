@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=plant\ base
+comment0.target=Plant(java.lang.String,\ double)
+comment1.params=
+comment1.target=void\ grow()
+comment2.params=
+comment2.target=double\ getSize()
+comment3.params=size
+comment3.target=void\ setSize(double)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=obj
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8

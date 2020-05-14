@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PassengerQueue
+comment1.params=queueName
+comment1.target=PassengerQueue(java.lang.String)
+comment2.params=clock\ showAll
+comment2.target=void\ checkNewArrival(int,\ boolean)
+comment3.params=clock\ showAll
+comment3.target=int\ update(int,\ boolean)
+comment4.params=
+comment4.target=int\ getTotalWait()
+comment5.params=
+comment5.target=int\ getNumServed()
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment7.params=
+comment7.target=int\ size()
+numComments=8
